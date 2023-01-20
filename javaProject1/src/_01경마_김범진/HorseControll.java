@@ -25,6 +25,7 @@ public class HorseControll {
 			} else if (sel == 4) {
 				hdao.load();
 			} else if (sel == 5) {
+				System.out.println("종료");
 				break;
 			}
 		}
